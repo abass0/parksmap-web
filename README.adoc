@@ -108,3 +108,5 @@ To list available backends:
 ----
 curl -i http://parksviewer.apps.127.0.0.1.xip.io/ws/backends/list
 ----
+
+Thanks!
